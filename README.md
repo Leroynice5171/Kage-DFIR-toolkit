@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/Platform-Windows-0ea5e9?style=flat-square">
 <img src="https://img.shields.io/badge/Linux-in_progress-f59e0b?style=flat-square">
 <img src="https://img.shields.io/badge/License-MIT-6b7280?style=flat-square">
+<a href="https://ko-fi.com/k0r1m"><img src="https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=kofi&logoColor=white"></a>
 </p>
-
 ---
 
 Point Kage at a suspect Windows host and it runs the whole triage in one chain:

